@@ -1,1 +1,1 @@
-# WEB-Calisma
+# Kampus-Etkinlikleri
